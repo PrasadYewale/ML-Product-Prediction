@@ -27,4 +27,5 @@ streamlit run UI_Final.py
 **OUTPUT** 
 
 ![Alt Text](assets/image.png)
+<br>
 ![Alt Text](assets/image2.png)
