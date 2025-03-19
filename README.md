@@ -18,13 +18,12 @@ git clone https://github.com/PrasadYewale/ML-Product-Prediction.git
 
 2️⃣ Install Dependencies
 
-sh
-Copy
-Edit
 pip install -r requirements.txt
+
 3️⃣ Run the Application
 
-sh
-Copy
-Edit
 streamlit run UI_Final.py
+
+**OUTPUT** 
+
+![Alt Text](assets/image.png)
