@@ -14,9 +14,6 @@ Streamlit (Web UI)
 🚀 Setup Instructions
 1️⃣ Clone the Repository
 
-sh
-Copy
-Edit
 git clone https://github.com/PrasadYewale/ML-Product-Prediction.git
 
 2️⃣ Install Dependencies
